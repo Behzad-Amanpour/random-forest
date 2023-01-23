@@ -1,12 +1,10 @@
-# Decision Tree (sklearn in Python)
+# Random Forest (sklearn in Python)
 Please visit my **.pdf file** for some theoretical explanations.
 
 In **code.py** you will see:
 
-- Implementation of Decision Tree (DT) from "scikit-learn" in Python
+- Implementation of Random Forest (RF) and Decision Tree (DT) from "scikit-learn" in Python
 
-- **Cross-validation** of DT
+- **Cross-validation** of RF
 
-- **Pruning (Regularization)** of DT
-
-- **Optimization** of DT (**Grid Search** for DT Parameters)
+- **Optimization (Tuning)** of RF (**Grid Search** for DT Parameters)
