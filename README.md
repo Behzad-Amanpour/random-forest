@@ -7,4 +7,4 @@ In **code.py** you will see:
 
 - **Cross-validation** of RF
 
-- **Optimization (Tuning)** of RF (**Grid Search** for DT Parameters)
+- **Optimization (Tuning)** of RF (**Grid Search** for the number of DTs)
